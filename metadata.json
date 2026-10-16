@@ -1,0 +1,7 @@
+{
+  "name": "Full Stack Interview Prep",
+  "description": "Comprehensive interview preparation and testing platform for full-stack developers with 200+ questions, randomized mock tests, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
